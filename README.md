@@ -49,10 +49,11 @@ The following parameters can be used (see nginx's [server documentation](http://
 `backup`  
 `down`  
 `resolve`  
+`spread`
 
 # Compatibility
 
-Tested with nginx 1.6, 1.7, 1.8, 1.9.
+Tested with nginx 1.6, 1.7, 1.8, 1.9, 1.14
 
 ## Alternatives
 
